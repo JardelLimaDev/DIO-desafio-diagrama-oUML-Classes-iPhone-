@@ -1,7 +1,7 @@
 # DIO Desafio UML 🚀
 
 O desafio tem como objetivo colocar em prática habilidades adquiridas, em programação orientada a objetos, levantamento de requisitos e modelagem UML. 
-Com o a proposta de representar alguns papéis di iPhone, foi realizado a diagramação das classes e interfaces de acordo com o desafio lançado. 
+Com a proposta de representar alguns papéis do iPhone, foi realizado a diagramação das classes e interfaces de acordo com o desafio lançado. 
 
 ### uml
 <div align="center">
